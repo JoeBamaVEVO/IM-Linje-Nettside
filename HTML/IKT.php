@@ -10,7 +10,7 @@
     <div class="HvaErIKT">
         <div class="AvsnittTyp1 ">
             <h2>Hva er IKT og Medie linjen?</h2>
-            <p>Om du velger denne linjen vil du kunne lære om programmering og teknologi, samt at du lærer om bildeoppsett og generel medieproduksjon, enten gjennom film, bilde, blog eller avis/blad </p>
+            <p>Om du velger denne linjen vil du kunne lære om programmering og teknologi, samt at du lærer om bildeoppsett og generel medieproduksjon, enten gjennom film, bilde, blog eller avis/blad. </p>
         </div>
     </div>
         <div class="fag">
@@ -20,11 +20,11 @@
             </div>
             <div class="AvsnittTyp1 ">
                 <h2>Teknologiforståelse</h2>
-                <p>I teknologiforståelse vil du lære om teknologien vi bruker i hverdagen, teknologi som Internett og Datamaskiner, både lokale og globale nettverk, protokoller som TCP/IP, SMTP, og mange andre stilige konsepter!</p>
+                <p>I teknologiforståelse vil du lære om teknologien vi bruker i hverdagen, teknologi som internett og datamaskiner, lokale og globale datanettverk, protokoller som TCP/IP, SMTP, og mange andre konsepter.</p>
             </div>
             <div class="AvsnittTyp1 ">
                 <h2>Produksjon og Historiefortelling</h2>
-                <p>I Produksjon og Historiefortelling vil man lære å produsere og kommunisere innhold innenfor ulike sjangre tilpasset visuelle og auditive medier, du vil lære hvordan å ta i bruk både bilde og film kamera, velge ut og bruke virkemidler, typografi og layout som passer til ulike budskap og reflektere over effekten disse har på budskapet</p>      
+                <p>I Produksjon og Historiefortelling vil man lære å produsere og kommunisere innhold innenfor ulike sjangre tilpasset visuelle og auditive medier. Du vil lære hvordan å ta i bruk både bilde og film kamera, velge ut og bruke virkemidler, typografi og layout som passer til ulike budskap og reflektere over effekten disse har på budskapet</p>      
             </div>
         </div>
 </div>

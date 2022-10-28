@@ -5,7 +5,7 @@
         <h1 class="MPOverskrift">Mine Prosjekter</h1>
     </div>
     <div class="ProsjektInnhold">
-        <h2>Her finner du mine prosjekter i de forskjellige fagene som vi har her på IM linjen på Amalie Skram</h2>
+        <h2>Her finner du mine prosjekter i de forskjellige fagene som vi har her på IM linjen på Amalie Skram.</h2>
         <div class="menus">
             <div class="DropDown">
                 <button class="dropbtn">Konseptutvikling og Programmering</button>
