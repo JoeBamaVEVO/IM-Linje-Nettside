@@ -11,6 +11,7 @@
                 <button class="dropbtn">Konseptutvikling og Programmering</button>
                 <div class="Dropdown-Content">
                     <a href="SSP.php">Stein, Saks, Papir</a>
+                    <a href="GymVid.php">Instruksjonsvideo For Gym</a>
                 </div>
             </div>
             <div class="DropDown">

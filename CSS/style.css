@@ -1,4 +1,10 @@
 /* SSP Prosjekt */
+.SSP1{
+
+  border-style:groove;
+  border-radius: 25px;
+}
+
 .omSSP p{
   font-family: 'Roboto:300, sans-serif';
   line-height: 1.5em;
@@ -109,14 +115,10 @@
 .DropDown:hover .dropbtn {background-color: rgb(61, 111, 204)}
 
 
-/*SSP*/
 
 
-.SSP1{
 
-  border-style:groove;
-  border-radius: 25px;
-}
+
 
 /* Om skole*/
 
